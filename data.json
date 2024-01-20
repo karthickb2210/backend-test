@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "name": "Master Weeder",
+      "category": "weeder",
+      "image":"https://www.sharpgaruda.com/wp-content/uploads/2021/09/Master-Weeder.png",
+    "price":"1,60,000/piece"
+      },
+    {
+      "id": "2",
+      "name": "XLNT Petrol Weeder",
+      "category": "weeder",
+      "image":
+        "https://yantratools.com/public/uploads/products/photos/oknuz3mWxE3U1nh6cZBpmm5PoDypjueuF8ROQnkV.png",
+        "price":"1,05,000/piece"
+      
+    }
+ 
+  ]
